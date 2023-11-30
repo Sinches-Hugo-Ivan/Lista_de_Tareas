@@ -27,7 +27,7 @@ function TaskForm({ addTask }) {
       addTask(task);
       setNewTask('');
     } else {
-      alert('Tenes que escribir una tarea campeón');
+      alert('Tenes que escribir una tarea san cayetano');
     }
   }
 

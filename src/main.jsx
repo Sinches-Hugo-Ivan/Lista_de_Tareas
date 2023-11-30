@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import App from "./components/App";
-import { Reloj } from "./components/Reloj";
+import Reloj  from "./components/Reloj";
 import "./index.css";
 
 const root = document.getElementById("root");
